@@ -1,2 +1,2 @@
 # maxim-portfolio
-This is my art
+This is my art.
