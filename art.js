@@ -1,31 +1,28 @@
 // Art catalogue. Maxim — fill in the blanks for each piece!
-// Fields: file, title, date, software, hardware, source, description
+// Fields: file, title, date, software, hardware, description (description includes the source/reference)
 const ART = [
     {
         file: "Bloody hands study.png",
         title: "Bloody Hands Study",
-        date: "",
+        date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        source: "",
-        description: ""
+        description: "This is a study of a painting by the artist Guweiz, which I felt was very successful, but now I have a fear of drawing hands ever again..."
     },
     {
         file: "Christmas landscape.png",
         title: "Christmas Landscape",
-        date: "",
+        date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        source: "",
         description: ""
     },
     {
         file: "DUNE.jpg",
         title: "Dune",
-        date: "",
+        date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        source: "",
         description: ""
     },
     {
@@ -34,7 +31,6 @@ const ART = [
         date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        source: "",
         description: ""
     },
     {
@@ -43,7 +39,6 @@ const ART = [
         date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        source: "",
         description: ""
     },
     {
@@ -52,25 +47,22 @@ const ART = [
         date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        source: "",
         description: ""
     },
     {
         file: "Ice Jio Chibi.png",
         title: "Ice Jio Chibi",
-        date: "",
+        date: "2026",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        source: "",
         description: ""
     },
     {
         file: "Jinx scared.png",
         title: "Jinx Scared",
-        date: "",
+        date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        source: "",
         description: ""
     },
     {
@@ -79,34 +71,30 @@ const ART = [
         date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        source: "",
         description: ""
     },
     {
         file: "Mel.png",
         title: "Mel",
-        date: "",
+        date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        source: "",
         description: ""
     },
     {
         file: "Old Man.png",
         title: "Old Man",
-        date: "",
+        date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        source: "",
         description: ""
     },
     {
         file: "Portrait - suffocation.png",
         title: "Portrait — Suffocation",
-        date: "",
+        date: "2026",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        source: "",
         description: ""
     },
     {
@@ -115,7 +103,6 @@ const ART = [
         date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        source: "",
         description: ""
     },
     {
@@ -124,17 +111,15 @@ const ART = [
         date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        source: "",
         description: ""
     },
     {
         file: "Self Portrait.png",
         title: "Self Portrait",
-        date: "",
+        date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        source: "",
-        description: ""
+        description: "A larger version of my 'Eye' piece, based on a photo of yours truly."
     },
     {
         file: "Shrike 1.png",
@@ -142,7 +127,6 @@ const ART = [
         date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        source: "",
         description: ""
     },
     {
@@ -151,16 +135,14 @@ const ART = [
         date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        source: "",
         description: ""
     },
     {
         file: "Vi Goth Pits tonal.png",
         title: "Vi — Goth Pits (Tonal Study)",
-        date: "",
+        date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        source: "",
         description: ""
     },
     {
@@ -169,16 +151,14 @@ const ART = [
         date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        source: "",
         description: ""
     },
     {
         file: "Who are you 1.png",
         title: "Who Are You 1",
-        date: "",
+        date: "2026",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        source: "",
         description: ""
     }
 ];
