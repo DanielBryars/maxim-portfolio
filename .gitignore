@@ -1,0 +1,7 @@
+# Python venv for the thumbnail generator script
+scripts/.venv/
+__pycache__/
+*.pyc
+
+# Node (in case we ever add a JS-based tool)
+node_modules/
