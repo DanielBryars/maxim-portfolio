@@ -1,9 +1,35 @@
-<html>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maxim's Art</title>
+    <link rel="stylesheet" href="style.css">
+</head>
 <body>
 
-    Hello this is my website
+    <header>
+        <h1>Maxim's Art</h1>
+        <p id="bio">Bio coming soon...</p>
+    </header>
 
+    <main id="gallery"></main>
+
+    <!-- Modal for image details -->
+    <div id="modal" class="modal hidden">
+        <div class="modal-backdrop"></div>
+        <div class="modal-content">
+            <button id="modal-close" aria-label="Close">&times;</button>
+            <img id="modal-image" src="" alt="">
+            <div class="modal-info">
+                <h2 id="modal-title"></h2>
+                <dl id="modal-details"></dl>
+                <p id="modal-description"></p>
+            </div>
+        </div>
+    </div>
+
+    <script src="art.js"></script>
+    <script src="app.js"></script>
 </body>
-
 </html>
