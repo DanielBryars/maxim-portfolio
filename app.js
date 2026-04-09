@@ -1,14 +1,19 @@
-// Build the gallery — duplicates the catalogue a few times for an "infinite" feel.
+// Build the gallery — two shuffled pools of all 50 pieces, one after the other.
 const gallery = document.getElementById('gallery');
-const REPEATS = 4;
 const THUMB_WIDTHS = [400, 800, 1600];
-// Minimum number of tiles before the same piece can appear again.
-const MIN_GAP = Math.min(ART.length, 20);
 
-// Strip the original extension and return the WebP thumbnail path for a given width.
 function thumbUrl(file, width) {
     const stem = file.replace(/\.[^.]+$/, '');
     return `images/thumbs/${encodeURIComponent(`${stem}-${width}.webp`)}`;
+}
+
+function shuffle(arr) {
+    const a = [...arr];
+    for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
 }
 
 function makeTile(piece) {
@@ -29,21 +34,8 @@ function makeTile(piece) {
     return tile;
 }
 
-// Build a sequence of tiles where no piece repeats within MIN_GAP positions.
-function buildSequence(totalCount) {
-    const sequence = [];
-    const recent = []; // sliding window of recently used file names
-    for (let i = 0; i < totalCount; i++) {
-        const candidates = ART.filter(p => !recent.includes(p.file));
-        const pick = candidates[Math.floor(Math.random() * candidates.length)];
-        sequence.push(pick);
-        recent.push(pick.file);
-        if (recent.length > MIN_GAP) recent.shift();
-    }
-    return sequence;
-}
-
-buildSequence(ART.length * REPEATS).forEach(piece => {
+// Pool 1 then Pool 2 — each is a full shuffled set of all pieces.
+shuffle(ART).concat(shuffle(ART)).forEach(piece => {
     gallery.appendChild(makeTile(piece));
 });
 
