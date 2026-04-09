@@ -10,9 +10,9 @@ const ART = [
         description: "This is a study of a painting by the artist Guweiz, which I felt was very successful, but now I have a fear of drawing hands ever again..."
     },
     {
-        file: "Christmas landscape.png",
-        title: "Christmas Landscape",
-        date: "2024",
+        file: "Cat Bowl.jpg",
+        title: "Cat Bowl",
+        date: "",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -26,9 +26,57 @@ const ART = [
         description: ""
     },
     {
+        file: "Eun Sian.png",
+        title: "Eun Sian",
+        date: "",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
+        file: "Eye Sunset.png",
+        title: "Eye Sunset",
+        date: "",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
         file: "Eye.png",
         title: "Eye",
         date: "2024",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
+        file: "Powder faces.png",
+        title: "Powder Faces",
+        date: "",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
+        file: "Fami Chainsaw Man.png",
+        title: "Fami — Chainsaw Man",
+        date: "",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
+        file: "Frieren and Fern.png",
+        title: "Frieren and Fern",
+        date: "",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
+        file: "Frieren.png",
+        title: "Frieren",
+        date: "",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -42,9 +90,17 @@ const ART = [
         description: ""
     },
     {
-        file: "Gwen Stacey Spiderverse 3.png",
-        title: "Gwen Stacy (Spider-Verse) 3",
+        file: "Gwen Stacey Spiderverse.png",
+        title: "Gwen Stacy (Spider-Verse)",
         date: "2024",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
+        file: "I love Yoo.png",
+        title: "I Love Yoo",
+        date: "",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -74,9 +130,81 @@ const ART = [
         description: ""
     },
     {
+        file: "Jinx watercolour.png",
+        title: "Jinx Watercolour",
+        date: "",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
+        file: "Jio 1.png",
+        title: "Jio 1",
+        date: "",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
+        file: "Jio Profile pic.png",
+        title: "Jio Profile Pic",
+        date: "",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
+        file: "Jiwoo Study.png",
+        title: "Jiwoo Study",
+        date: "",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
+        file: "Kaiden Poster.png",
+        title: "Kaiden Poster",
+        date: "",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
+        file: "Lelouch Vi Britannia.png",
+        title: "Lelouch Vi Britannia",
+        date: "",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
+        file: "Lincoln.png",
+        title: "Lincoln",
+        date: "",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
+        file: "Makima.png",
+        title: "Makima",
+        date: "",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
         file: "Mel.png",
         title: "Mel",
         date: "2024",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
+        file: "Tokyo Ghoul.png",
+        title: "Tokyo Ghoul",
+        date: "",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -98,9 +226,41 @@ const ART = [
         description: ""
     },
     {
+        file: "Portrait Graphite.png",
+        title: "Portrait Graphite",
+        date: "",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
+        file: "Portrait Tom.png",
+        title: "Portrait Tom",
+        date: "",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
+        file: "Powder.png",
+        title: "Powder",
+        date: "",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
         file: "Sam Does Arts Study 2.png",
         title: "Sam Does Arts Study 2",
         date: "2024",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
+        file: "Sam Does Arts Watercolour.png",
+        title: "Sam Does Arts Watercolour",
+        date: "",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -122,9 +282,41 @@ const ART = [
         description: "A larger version of my 'Eye' piece, based on a photo of yours truly."
     },
     {
-        file: "Shrike 1.png",
-        title: "Shrike 1",
+        file: "Shadow Slave.png",
+        title: "Shadow Slave",
+        date: "",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
+        file: "Shrike.png",
+        title: "Shrike",
         date: "2024",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
+        file: "Skulls.jpg",
+        title: "Skulls",
+        date: "",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
+        file: "Snowy landscape.png",
+        title: "Snowy Landscape",
+        date: "2024",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
+        file: "Spiderverse.jpg",
+        title: "Spider-Verse",
+        date: "",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -133,6 +325,30 @@ const ART = [
         file: "Tessa Sketch.png",
         title: "Tessa Sketch",
         date: "2024",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
+        file: "Touka 1.png",
+        title: "Touka 1",
+        date: "",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
+        file: "Touka 2.png",
+        title: "Touka 2",
+        date: "",
+        software: "Krita",
+        hardware: "Huion drawing tablet",
+        description: ""
+    },
+    {
+        file: "Trex Skeleton.png",
+        title: "T-Rex Skeleton",
+        date: "",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -154,150 +370,6 @@ const ART = [
         description: ""
     },
     {
-        file: "Who are you 1.png",
-        title: "Who Are You 1",
-        date: "2026",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "Bowl.jpg",
-        title: "Bowl",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "Cool.png",
-        title: "Cool",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "Eye2.png",
-        title: "Eye 2",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "Face Watercolours.png",
-        title: "Face Watercolours",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "Faces.png",
-        title: "Faces",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "Fists.png",
-        title: "Fists",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "Gn.png",
-        title: "Gn",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "Lincoln.png",
-        title: "Lincoln",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "MyHeroAcadamia.png",
-        title: "My Hero Academia",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "PencilDrawing.png",
-        title: "Pencil Drawing",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "PittsRiver.png",
-        title: "Pitts River",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "Portrait.png",
-        title: "Portrait",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "Powder.png",
-        title: "Powder",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "Purple.png",
-        title: "Purple",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "Pwdr.png",
-        title: "Pwdr",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "Skulls.jpg",
-        title: "Skulls",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "Spiderverse.jpg",
-        title: "Spider-Verse",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
         file: "Vi.png",
         title: "Vi",
         date: "",
@@ -306,96 +378,24 @@ const ART = [
         description: ""
     },
     {
-        file: "Witch.png",
-        title: "Witch",
+        file: "Watercolour Portrait.png",
+        title: "Watercolour Portrait",
         date: "",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
     },
     {
-        file: "Witches.png",
-        title: "Witches",
-        date: "",
+        file: "Who are you.png",
+        title: "Who Are You",
+        date: "2026",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
     },
     {
-        file: "YellowEyes.png",
-        title: "Yellow Eyes",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "bw2.png",
-        title: "BW 2",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "bw3.png",
-        title: "BW 3",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "e2.png",
-        title: "E2",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "king.png",
-        title: "King",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "pii.png",
-        title: "Pii",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "pii2.png",
-        title: "Pii 2",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "wc.png",
-        title: "WC",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "wc2.png",
-        title: "WC 2",
-        date: "",
-        software: "Krita",
-        hardware: "Huion drawing tablet",
-        description: ""
-    },
-    {
-        file: "wc3.png",
-        title: "WC 3",
+        file: "Louis the King.png",
+        title: "Louis the King",
         date: "",
         software: "Krita",
         hardware: "Huion drawing tablet",
