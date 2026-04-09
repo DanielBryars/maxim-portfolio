@@ -2,6 +2,8 @@
 const gallery = document.getElementById('gallery');
 const REPEATS = 4;
 const THUMB_WIDTHS = [400, 800, 1600];
+// Minimum number of tiles before the same piece can appear again.
+const MIN_GAP = Math.min(ART.length, 20);
 
 // Strip the original extension and return the WebP thumbnail path for a given width.
 function thumbUrl(file, width) {
@@ -27,11 +29,23 @@ function makeTile(piece) {
     return tile;
 }
 
-for (let i = 0; i < REPEATS; i++) {
-    // Shuffle a copy each pass so repeats don't look like obvious tiling
-    const shuffled = [...ART].sort(() => Math.random() - 0.5);
-    shuffled.forEach(piece => gallery.appendChild(makeTile(piece)));
+// Build a sequence of tiles where no piece repeats within MIN_GAP positions.
+function buildSequence(totalCount) {
+    const sequence = [];
+    const recent = []; // sliding window of recently used file names
+    for (let i = 0; i < totalCount; i++) {
+        const candidates = ART.filter(p => !recent.includes(p.file));
+        const pick = candidates[Math.floor(Math.random() * candidates.length)];
+        sequence.push(pick);
+        recent.push(pick.file);
+        if (recent.length > MIN_GAP) recent.shift();
+    }
+    return sequence;
 }
+
+buildSequence(ART.length * REPEATS).forEach(piece => {
+    gallery.appendChild(makeTile(piece));
+});
 
 // Modal handling
 const modal = document.getElementById('modal');
