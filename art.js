@@ -12,7 +12,7 @@ const ART = [
     {
         file: "Cat Bowl.jpg",
         title: "Cat Bowl",
-        date: "",
+        date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -28,7 +28,7 @@ const ART = [
     {
         file: "Eun Sian.png",
         title: "Eun Sian",
-        date: "",
+        date: "2026",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -36,7 +36,7 @@ const ART = [
     {
         file: "Eye Sunset.png",
         title: "Eye Sunset",
-        date: "",
+        date: "2026",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -52,7 +52,7 @@ const ART = [
     {
         file: "Powder faces.png",
         title: "Powder Faces",
-        date: "",
+        date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -60,7 +60,7 @@ const ART = [
     {
         file: "Fami Chainsaw Man.png",
         title: "Fami — Chainsaw Man",
-        date: "",
+        date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -68,7 +68,7 @@ const ART = [
     {
         file: "Frieren and Fern.png",
         title: "Frieren and Fern",
-        date: "",
+        date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -76,7 +76,7 @@ const ART = [
     {
         file: "Frieren.png",
         title: "Frieren",
-        date: "",
+        date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -100,7 +100,7 @@ const ART = [
     {
         file: "I love Yoo.png",
         title: "I Love Yoo",
-        date: "",
+        date: "2026",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -132,7 +132,7 @@ const ART = [
     {
         file: "Jinx watercolour.png",
         title: "Jinx Watercolour",
-        date: "",
+        date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -140,7 +140,7 @@ const ART = [
     {
         file: "Jio 1.png",
         title: "Jio 1",
-        date: "",
+        date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -148,7 +148,7 @@ const ART = [
     {
         file: "Jio Profile pic.png",
         title: "Jio Profile Pic",
-        date: "",
+        date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -156,7 +156,7 @@ const ART = [
     {
         file: "Jiwoo Study.png",
         title: "Jiwoo Study",
-        date: "",
+        date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -164,7 +164,7 @@ const ART = [
     {
         file: "Kaiden Poster.png",
         title: "Kaiden Poster",
-        date: "",
+        date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -172,7 +172,7 @@ const ART = [
     {
         file: "Lelouch Vi Britannia.png",
         title: "Lelouch Vi Britannia",
-        date: "",
+        date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -180,7 +180,7 @@ const ART = [
     {
         file: "Lincoln.png",
         title: "Lincoln",
-        date: "",
+        date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -188,7 +188,7 @@ const ART = [
     {
         file: "Makima.png",
         title: "Makima",
-        date: "",
+        date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -204,7 +204,7 @@ const ART = [
     {
         file: "Tokyo Ghoul.png",
         title: "Tokyo Ghoul",
-        date: "",
+        date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -228,7 +228,7 @@ const ART = [
     {
         file: "Portrait Graphite.png",
         title: "Portrait Graphite",
-        date: "",
+        date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -236,7 +236,7 @@ const ART = [
     {
         file: "Portrait Tom.png",
         title: "Portrait Tom",
-        date: "",
+        date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -244,7 +244,7 @@ const ART = [
     {
         file: "Powder.png",
         title: "Powder",
-        date: "",
+        date: "2023",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -260,7 +260,7 @@ const ART = [
     {
         file: "Sam Does Arts Watercolour.png",
         title: "Sam Does Arts Watercolour",
-        date: "",
+        date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -284,7 +284,7 @@ const ART = [
     {
         file: "Shadow Slave.png",
         title: "Shadow Slave",
-        date: "",
+        date: "2026",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -300,7 +300,7 @@ const ART = [
     {
         file: "Skulls.jpg",
         title: "Skulls",
-        date: "",
+        date: "2023",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -316,7 +316,7 @@ const ART = [
     {
         file: "Spiderverse.jpg",
         title: "Spider-Verse",
-        date: "",
+        date: "2023",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -332,7 +332,7 @@ const ART = [
     {
         file: "Touka 1.png",
         title: "Touka 1",
-        date: "",
+        date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -340,7 +340,7 @@ const ART = [
     {
         file: "Touka 2.png",
         title: "Touka 2",
-        date: "",
+        date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -348,7 +348,7 @@ const ART = [
     {
         file: "Trex Skeleton.png",
         title: "T-Rex Skeleton",
-        date: "",
+        date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -372,7 +372,7 @@ const ART = [
     {
         file: "Vi.png",
         title: "Vi",
-        date: "",
+        date: "2023",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -380,7 +380,7 @@ const ART = [
     {
         file: "Watercolour Portrait.png",
         title: "Watercolour Portrait",
-        date: "",
+        date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
@@ -396,7 +396,7 @@ const ART = [
     {
         file: "Louis the King.png",
         title: "Louis the King",
-        date: "",
+        date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
         description: ""
