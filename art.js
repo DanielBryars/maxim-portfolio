@@ -15,7 +15,7 @@ const ART = [
         date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "An A3 tonal study of my cat's food bowl."
     },
     {
         file: "DUNE.jpg",
@@ -23,7 +23,7 @@ const ART = [
         date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "A quicker experiment with brushes in Krita, based off a poster from the Dune franchise."
     },
     {
         file: "Eun Sian.png",
@@ -31,7 +31,7 @@ const ART = [
         date: "2026",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "A watercolour study of a panel from the webcomic 'Secret Alliance'. ^v^"
     },
     {
         file: "Eye Sunset.png",
@@ -39,7 +39,7 @@ const ART = [
         date: "2026",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "An attempt at painting an eye in the style of Lara Kavanagh."
     },
     {
         file: "Eye.png",
@@ -47,7 +47,7 @@ const ART = [
         date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "Painting my own eye in a semi-realistic style."
     },
     {
         file: "Powder faces.png",
@@ -55,7 +55,7 @@ const ART = [
         date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "A page of marker drawings of Powder from Arcane season 2, episode 7 — my favourite episode of my favourite series."
     },
     {
         file: "Fami Chainsaw Man.png",
@@ -63,7 +63,7 @@ const ART = [
         date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "The Famine Devil from Chainsaw Man. I love the purple in the character design!"
     },
     {
         file: "Frieren and Fern.png",
@@ -71,7 +71,7 @@ const ART = [
         date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "Based on the cover art for the Spotify album of the Frieren soundtrack. I attempted a softer, more pastel tone without linework — and I really love it!"
     },
     {
         file: "Frieren.png",
@@ -79,7 +79,7 @@ const ART = [
         date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "A simple study from the anime Frieren: Beyond Journey's End. The art in this series is truly inspirational."
     },
     {
         file: "Gwen Stacey Spiderverse 2.png",
@@ -87,7 +87,7 @@ const ART = [
         date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "A study of one of the concept art pieces in the official artbook for Across the Spider-Verse. I just NEEDED to use some of these crazy colours — I still don't quite understand how they work so seamlessly though."
     },
     {
         file: "Gwen Stacey Spiderverse.png",
@@ -95,7 +95,7 @@ const ART = [
         date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "A study of Gwen Stacy from an artist on ArtStation, which I dedicated to my mum for her birthday (you may be able to tell from the words hidden in the webbing)."
     },
     {
         file: "I love Yoo.png",
@@ -103,7 +103,7 @@ const ART = [
         date: "2026",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "A watercolour study of an emotional panel from the webcomic 'I Love Yoo'."
     },
     {
         file: "Ice Jio Chibi.png",
@@ -111,7 +111,7 @@ const ART = [
         date: "2026",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "A quick experiment with custom brushes. The reference is from the webcomic 'A Ranker's Guide to the Good Life'."
     },
     {
         file: "Jinx scared.png",
@@ -119,7 +119,7 @@ const ART = [
         date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "A shot from one of my favourite scenes of Arcane. I'm glad that I only had to draw one eye. #runfromyourresponsibilities"
     },
     {
         file: "Jinx.jpg",
@@ -127,7 +127,7 @@ const ART = [
         date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "Based on a poster of Jinx I found online. I only changed a few elements from the reference, but this was one of the first digital pieces I felt happy with."
     },
     {
         file: "Jinx watercolour.png",
@@ -135,7 +135,7 @@ const ART = [
         date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "When the Arcane Artbook arrived from Amazon, I absolutely could not give up the chance to paint some fanart."
     },
     {
         file: "Jio 1.png",
@@ -143,7 +143,7 @@ const ART = [
         date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "A quick study of Jio, the protagonist of the webcomic 'A Ranker's Guide to the Good Life', that I did in my free period instead of revising..."
     },
     {
         file: "Jio Profile pic.png",
