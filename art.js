@@ -151,7 +151,7 @@ const ART = [
         date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "This is my current profile pic on WhatsApp."
     },
     {
         file: "Jiwoo Study.png",
@@ -159,7 +159,7 @@ const ART = [
         date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "A panel from the webcomic Eleceed that was a blast to do. I love the scratchy style and saturated colouring of the artist's work."
     },
     {
         file: "Kaiden Poster.png",
@@ -167,7 +167,7 @@ const ART = [
         date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "A poster of the character Kaiden from the webcomic Eleceed. I formatted lots of different reference shots from the webtoon into one page to fully highlight this awesome character!"
     },
     {
         file: "Lelouch Vi Britannia.png",
@@ -175,7 +175,7 @@ const ART = [
         date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "A painting of Lelouch from Code Geass — an older anime with a fantastically written ending."
     },
     {
         file: "Lincoln.png",
@@ -183,7 +183,7 @@ const ART = [
         date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "A large-scale watercolour painting of my brother Lincoln. I attempted a blur in the background and some stylistic raindrops in the foreground — I am pretty happy with the finished piece, even if it is slightly clashing colour-wise."
     },
     {
         file: "Makima.png",
@@ -191,7 +191,7 @@ const ART = [
         date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "The source for this painting was the front cover of the Chainsaw Man manga box set. I thought it captured her personality dangerously well, so I chose to paint it using quick, loose strokes with 2 or fewer layers per element."
     },
     {
         file: "Mel.png",
@@ -199,7 +199,7 @@ const ART = [
         date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "I wanted to paint Mel (from Arcane) to practice painting metal. I've learnt how painful jewellery is to paint, but also how eye-catching it can be."
     },
     {
         file: "Tokyo Ghoul.png",
@@ -207,7 +207,7 @@ const ART = [
         date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "A painting of Kaneki from Tokyo Ghoul. I experimented without lineart or a reference for this one."
     },
     {
         file: "Old Man.png",
@@ -215,7 +215,7 @@ const ART = [
         date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "A study of a painting by SamDoesArts. I wanted to learn more about facial structure and rim lighting."
     },
     {
         file: "Portrait - suffocation.png",
@@ -223,7 +223,7 @@ const ART = [
         date: "2026",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "A digital photo study. I am starting to put my own stylistic choices into my rendering, but I still have a long way to go."
     },
     {
         file: "Portrait Graphite.png",
@@ -231,7 +231,7 @@ const ART = [
         date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "A simple tonal study that I really enjoyed drawing. For my pencil drawings I dislike any type of smudging, so this is all shaded with pencil strokes."
     },
     {
         file: "Portrait Tom.png",
@@ -239,7 +239,7 @@ const ART = [
         date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "A watercolour painting of my friend Tom. Being a goober. As always."
     },
     {
         file: "Powder.png",
@@ -247,7 +247,7 @@ const ART = [
         date: "2023",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "After watching Arcane for the first time, I immediately drew the two main characters — starting with Powder. ^^"
     },
     {
         file: "Sam Does Arts Study 2.png",
@@ -255,7 +255,7 @@ const ART = [
         date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "Sooo many bottles!!! A study of SamDoesArts, where I definitely grew more confident with my digital brushstrokes after so many repetitive motions."
     },
     {
         file: "Sam Does Arts Watercolour.png",
@@ -263,7 +263,7 @@ const ART = [
         date: "2025",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "A watercolour study of a painting by my favourite artist. The way he uses lighting and contrast so efficiently is mind-boggling."
     },
     {
         file: "Sam Does Arts study.png",
@@ -271,7 +271,7 @@ const ART = [
         date: "2024",
         software: "Krita",
         hardware: "Huion drawing tablet",
-        description: ""
+        description: "A tonal study of a painting by SamDoesArts. It was hard to get used to leaving the sketch layer on over my rendering."
     },
     {
         file: "Self Portrait.png",
