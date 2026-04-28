@@ -55,8 +55,7 @@ function openModal(piece) {
 
     const fields = [
         ['Date', piece.date],
-        ['Software', piece.software],
-        ['Hardware', piece.hardware]
+        ['Medium', piece.medium]
     ];
     modalDetails.innerHTML = fields
         .map(([label, value]) => `
